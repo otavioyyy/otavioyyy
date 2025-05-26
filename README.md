@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Otavio 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/otavioyyy/otavioyyy/main/HEXORA.png" height="60" alt="HEXORA logo"/>
+  <img src="https://raw.githubusercontent.com/otavioyyy/otavioyyy/main/img/HEXORA.png" height="60" alt="HEXORA logo"/>
 </p>
 
 <p align="center">CEO da <strong>Hexora</strong> | Desenvolvedor Full Stack | UX Designer</p>
